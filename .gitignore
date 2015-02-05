@@ -8,3 +8,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+.bundle/
+Gemfile.lock
+vendor/bundle
