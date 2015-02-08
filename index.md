@@ -30,6 +30,12 @@ tagline: Supporting tagline
 * A tarot card is really a good tool for organize someone's thinking.
 * Have over 100 peoples recode
 
+## Shisha
+
+* A water pipe
+* Makes chilling out time with friend / relax alone
+* Favorite flavor: passion fruit and Mints MIX with ICE
+
 ## sports
 
 * Bouldering
