@@ -1,46 +1,34 @@
 ---
 layout: page
-title: Hello World!
+title: about kuteken
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+* Speaking: Japanese(native) and English
+* Works: System architect / Product manager in Japan / Vietnam
+* Living: Saigon(ho chi minh), Vietnam / Tokyo, Japan(codate share house)
+* Links: [Github](https://github.com/kuteken) / [twitter](http://twitter.com/kuteken)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Product 
 
-## Update Author Attributes
+* おとしもの - a lost article (Planning, Coding, Movie) [Youtube](https://www.youtube.com/watch?v=ysYOdcbIuNA)
+* すぷーにゃ - The sensing spoon with App and BLE connection(Planning, Coding) [Web](http://aufl.kddi.com/prototypes/detail/9) / [paper](http://www.wiss.org/WISS2014Proceedings/demo/063.pdf)
+* PIKAITA - The sensing LED snowboard with App and BLE connection(Planning, Coding)
+* How to Create a DIY "Chladni figure" machine(Planning, Movie) [Youtube](https://www.youtube.com/watch?v=FsNTsqm78TM)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Drums / Percussion
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* 普通の生活 - Normal life [Youtube](https://www.youtube.com/watch?v=SQ7r4W6TlWI)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/188085334&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-    $ rm -rf _posts/core-samples
+## tarot reading
 
-Here's a sample "posts list".
+* A tarot card is really a good tool for organize someone's thinking.
+* Have over 100 peoples recode
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+## sports
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+* Bouldering
+* Table tennis(chopper) 
