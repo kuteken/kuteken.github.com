@@ -12,18 +12,18 @@ tagline: Supporting tagline
 
 ## Product 
 
-* おとしもの - a lost article (Planning, Coding, Movie) [Youtube](https://www.youtube.com/watch?v=ysYOdcbIuNA)
-* すぷーにゃ - The sensing spoon with App and BLE connection(Planning, Coding) [Web](http://aufl.kddi.com/prototypes/detail/9) / [paper](http://www.wiss.org/WISS2014Proceedings/demo/063.pdf)
-* PIKAITA - The sensing LED snowboard with App and BLE connection(Planning, Coding)
-* How to Create a DIY "Chladni figure" machine(Planning, Movie) [Youtube](https://www.youtube.com/watch?v=FsNTsqm78TM)
+* おとしもの - a lost article, 2014 (Planning, Coding, Movie) [Youtube](https://www.youtube.com/watch?v=ysYOdcbIuNA)
+* すぷーにゃ - The sensing spoon with App and BLE connection, 2014 (Planning, Coding) [Web](http://aufl.kddi.com/prototypes/detail/9) / [paper](http://www.wiss.org/WISS2014Proceedings/demo/063.pdf)
+* PIKAITA - The sensing LED snowboard with App and BLE connection, 2014 (Planning, Coding)
+* How to Create a DIY "Chladni figure" machine, 2014 (Planning, Movie) [Youtube](https://www.youtube.com/watch?v=FsNTsqm78TM)
 
 ## Drums / Percussion
 
-* 普通の生活 - Normal life [Youtube](https://www.youtube.com/watch?v=SQ7r4W6TlWI)
+* 普通の生活 - Normal life, 2014 [Youtube](https://www.youtube.com/watch?v=SQ7r4W6TlWI)
 
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/188085334&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-* Symphonic winds(percussion, conductor)
+* Symphonic winds, 2000-2008 (percussion, conductor)
 
 ## tarot reading
 
